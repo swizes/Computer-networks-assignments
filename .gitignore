@@ -1,0 +1,5 @@
+*.cproject
+*.project
+*.d
+*.o
+*.mk
