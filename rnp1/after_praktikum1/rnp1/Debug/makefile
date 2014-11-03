@@ -35,7 +35,7 @@ rnp1: $(OBJS) $(USER_OBJS)
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) rnp1
+	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) rnp1
 	-@echo ' '
 
 .PHONY: all clean dependents

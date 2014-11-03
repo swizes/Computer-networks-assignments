@@ -18,8 +18,9 @@
 #include <semaphore.h>
 #include <string.h>
 #include <netdb.h>
+#include <signal.h>
 
-#include <asm/atomic.h> // for atomic operations on the bufferPointer
+//#include <asm/atomic.h> // for atomic operations on the bufferPointer
 
 
 pthread_mutex_t mutexBuffer;
