@@ -1,0 +1,106 @@
+PING 192.168.18.136 (192.168.18.136) 50(78) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 150(178) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +3 errors, 100% packet loss, time 4002ms
+
+PING 192.168.18.136 (192.168.18.136) 250(278) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=4 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=5 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +4 errors, 100% packet loss, time 4002ms
+
+PING 192.168.18.136 (192.168.18.136) 350(378) bytes of data.
+From 188.1.231.165 icmp_seq=2 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 450(478) bytes of data.
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=5 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 550(578) bytes of data.
+From 188.1.231.165 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +1 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 650(678) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 4000ms
+
+PING 192.168.18.136 (192.168.18.136) 750(778) bytes of data.
+From 188.1.231.165 icmp_seq=5 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +1 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 850(878) bytes of data.
+From 188.1.231.165 icmp_seq=2 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=5 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 950(978) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=2 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 4000ms
+
+PING 192.168.18.136 (192.168.18.136) 1050(1078) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 4000ms
+
+PING 192.168.18.136 (192.168.18.136) 1150(1178) bytes of data.
+From 188.1.231.165 icmp_seq=3 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=5 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 3999ms
+
+PING 192.168.18.136 (192.168.18.136) 1250(1278) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=5 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 4000ms
+
+PING 192.168.18.136 (192.168.18.136) 1350(1378) bytes of data.
+From 188.1.231.165 icmp_seq=1 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=2 Destination Host Unreachable
+From 188.1.231.165 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +3 errors, 100% packet loss, time 4000ms
+
+PING 192.168.18.136 (192.168.18.136) 1450(1478) bytes of data.
+From 188.1.231.165 icmp_seq=4 Destination Host Unreachable
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 0 received, +1 errors, 100% packet loss, time 3999ms
+

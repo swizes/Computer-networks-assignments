@@ -1,0 +1,150 @@
+PING 192.168.18.136 (192.168.18.136) 50(78) bytes of data.
+58 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=80.7 ms
+58 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=80.6 ms
+58 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=80.6 ms
+58 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=80.6 ms
+58 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=80.6 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 80.652/80.672/80.714/0.311 ms
+PING 192.168.18.136 (192.168.18.136) 150(178) bytes of data.
+158 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=81.1 ms
+158 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=81.1 ms
+158 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=81.1 ms
+158 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=81.1 ms
+158 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=81.1 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 81.113/81.136/81.158/0.312 ms
+PING 192.168.18.136 (192.168.18.136) 250(278) bytes of data.
+258 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=81.6 ms
+258 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=81.6 ms
+258 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=81.6 ms
+258 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=81.5 ms
+258 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=81.6 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 81.594/81.610/81.621/0.255 ms
+PING 192.168.18.136 (192.168.18.136) 350(378) bytes of data.
+358 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=82.1 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 82.103/82.111/82.128/0.314 ms
+PING 192.168.18.136 (192.168.18.136) 450(478) bytes of data.
+458 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=82.5 ms
+458 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=82.5 ms
+458 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=82.6 ms
+458 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=82.5 ms
+458 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=82.5 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.550/82.574/82.610/0.315 ms
+PING 192.168.18.136 (192.168.18.136) 550(578) bytes of data.
+558 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=83.0 ms
+558 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=83.0 ms
+558 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=83.0 ms
+558 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=83.0 ms
+558 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=83.0 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 83.025/83.044/83.057/0.258 ms
+PING 192.168.18.136 (192.168.18.136) 650(678) bytes of data.
+658 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=83.5 ms
+658 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=83.5 ms
+658 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=83.5 ms
+658 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=83.5 ms
+658 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=83.5 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.509/83.519/83.529/0.182 ms
+PING 192.168.18.136 (192.168.18.136) 750(778) bytes of data.
+758 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=83.9 ms
+758 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=84.0 ms
+758 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=84.0 ms
+758 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=83.9 ms
+758 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=83.9 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 83.967/83.993/84.009/0.014 ms
+PING 192.168.18.136 (192.168.18.136) 850(878) bytes of data.
+858 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=84.4 ms
+858 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=84.4 ms
+858 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=84.4 ms
+858 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=84.4 ms
+858 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=84.4 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 84.439/84.456/84.466/0.009 ms
+PING 192.168.18.136 (192.168.18.136) 950(978) bytes of data.
+958 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=84.9 ms
+958 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=84.9 ms
+958 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=84.9 ms
+958 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=84.9 ms
+958 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=84.9 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 84.920/84.932/84.954/0.184 ms
+PING 192.168.18.136 (192.168.18.136) 1050(1078) bytes of data.
+1058 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=85.3 ms
+1058 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=85.4 ms
+1058 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=85.4 ms
+1058 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=85.4 ms
+1058 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=85.4 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 85.393/85.407/85.416/0.320 ms
+PING 192.168.18.136 (192.168.18.136) 1150(1178) bytes of data.
+1158 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=85.8 ms
+1158 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=85.9 ms
+1158 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=85.8 ms
+1158 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=85.8 ms
+1158 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=85.9 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 85.868/85.888/85.909/0.321 ms
+PING 192.168.18.136 (192.168.18.136) 1250(1278) bytes of data.
+1258 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=86.3 ms
+1258 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=86.3 ms
+1258 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=86.3 ms
+1258 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=86.3 ms
+1258 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=86.3 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 86.348/86.367/86.383/0.263 ms
+PING 192.168.18.136 (192.168.18.136) 1350(1378) bytes of data.
+1358 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=86.8 ms
+1358 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=86.8 ms
+1358 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=86.8 ms
+1358 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=86.8 ms
+1358 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=86.8 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 86.817/86.845/86.892/0.323 ms
+PING 192.168.18.136 (192.168.18.136) 1450(1478) bytes of data.
+1458 bytes from 192.168.18.136: icmp_seq=1 ttl=64 time=87.2 ms
+1458 bytes from 192.168.18.136: icmp_seq=2 ttl=64 time=87.3 ms
+1458 bytes from 192.168.18.136: icmp_seq=3 ttl=64 time=87.3 ms
+1458 bytes from 192.168.18.136: icmp_seq=4 ttl=64 time=87.3 ms
+1458 bytes from 192.168.18.136: icmp_seq=5 ttl=64 time=87.2 ms
+
+--- 192.168.18.136 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 87.292/87.309/87.336/0.374 ms

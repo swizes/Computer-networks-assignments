@@ -1,0 +1,3 @@
+sudo /usr/sbin/tcpdump -i eth1 -s 100 -w 1_3_capture.pcap
+ 
+netperf -H 192.168.17.15 -l 5000 -- -S 65536
