@@ -1,0 +1,149 @@
+PING 192.168.18.133 (192.168.18.133) 50(78) bytes of data.
+58 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=80.7 ms
+58 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=80.7 ms
+58 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=80.7 ms
+58 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=80.7 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4004ms
+rtt min/avg/max/mdev = 80.718/80.736/80.761/0.015 ms
+PING 192.168.18.133 (192.168.18.133) 150(178) bytes of data.
+158 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=81.2 ms
+158 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=81.2 ms
+158 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=81.1 ms
+158 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=81.1 ms
+158 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=81.2 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 81.185/81.209/81.245/0.021 ms
+PING 192.168.18.133 (192.168.18.133) 250(278) bytes of data.
+258 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=81.6 ms
+258 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=81.7 ms
+258 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=81.6 ms
+258 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=81.7 ms
+258 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=81.7 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 81.653/81.691/81.713/0.313 ms
+PING 192.168.18.133 (192.168.18.133) 350(378) bytes of data.
+358 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=82.2 ms
+358 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=82.1 ms
+358 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=82.1 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 82.143/82.180/82.230/0.363 ms
+PING 192.168.18.133 (192.168.18.133) 450(478) bytes of data.
+458 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=82.6 ms
+458 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=82.6 ms
+458 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=82.6 ms
+458 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=82.7 ms
+458 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=82.6 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 82.613/82.652/82.701/0.184 ms
+PING 192.168.18.133 (192.168.18.133) 550(578) bytes of data.
+558 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=83.0 ms
+558 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=83.1 ms
+558 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=83.1 ms
+558 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=83.1 ms
+558 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=83.1 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 83.097/83.119/83.134/0.316 ms
+PING 192.168.18.133 (192.168.18.133) 650(678) bytes of data.
+658 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=83.6 ms
+658 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=83.6 ms
+658 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=83.5 ms
+658 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=83.6 ms
+658 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=83.6 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 83.581/83.618/83.647/0.317 ms
+PING 192.168.18.133 (192.168.18.133) 750(778) bytes of data.
+758 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=84.0 ms
+758 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=84.1 ms
+758 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=84.0 ms
+758 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=84.0 ms
+758 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=84.0 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 84.068/84.091/84.150/0.319 ms
+PING 192.168.18.133 (192.168.18.133) 850(878) bytes of data.
+858 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=84.5 ms
+858 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=84.5 ms
+858 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=84.6 ms
+858 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=84.5 ms
+858 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=84.5 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 84.521/84.551/84.603/0.185 ms
+PING 192.168.18.133 (192.168.18.133) 950(978) bytes of data.
+958 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=85.0 ms
+958 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=85.0 ms
+958 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=85.0 ms
+958 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=85.0 ms
+958 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=85.0 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 85.008/85.040/85.074/0.320 ms
+PING 192.168.18.133 (192.168.18.133) 1050(1078) bytes of data.
+1058 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=85.4 ms
+1058 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=85.5 ms
+1058 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=85.5 ms
+1058 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=85.5 ms
+1058 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=85.5 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 85.492/85.515/85.549/0.186 ms
+PING 192.168.18.133 (192.168.18.133) 1150(1178) bytes of data.
+1158 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=85.9 ms
+1158 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=86.0 ms
+1158 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=85.9 ms
+1158 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=85.9 ms
+1158 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=85.9 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 85.955/85.985/86.007/0.186 ms
+PING 192.168.18.133 (192.168.18.133) 1250(1278) bytes of data.
+1258 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=86.4 ms
+1258 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=86.4 ms
+1258 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=86.4 ms
+1258 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=86.4 ms
+1258 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=86.4 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 86.416/86.447/86.475/0.187 ms
+PING 192.168.18.133 (192.168.18.133) 1350(1378) bytes of data.
+1358 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=86.9 ms
+1358 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=86.9 ms
+1358 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=86.9 ms
+1358 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=86.9 ms
+1358 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=86.9 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 86.904/86.918/86.950/0.264 ms
+PING 192.168.18.133 (192.168.18.133) 1450(1478) bytes of data.
+1458 bytes from 192.168.18.133: icmp_seq=1 ttl=64 time=87.3 ms
+1458 bytes from 192.168.18.133: icmp_seq=2 ttl=64 time=87.4 ms
+1458 bytes from 192.168.18.133: icmp_seq=3 ttl=64 time=87.4 ms
+1458 bytes from 192.168.18.133: icmp_seq=4 ttl=64 time=87.3 ms
+1458 bytes from 192.168.18.133: icmp_seq=5 ttl=64 time=87.5 ms
+
+--- 192.168.18.133 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 87.374/87.423/87.501/0.045 ms
