@@ -96,12 +96,10 @@ case $name in
     #Ping From Network 4 an Network 2
     iptables -A FORWARD -s 172.16.14.0/24 -d 172.16.12.0/24 -p icmp --icmp-type ECHO-REQUEST -j ACCEPT
     iptables -A FORWARD -d 172.16.14.0/24 -s 172.16.12.0/24 -p icmp --icmp-type ECHO-REPLY -j ACCEPT
-    
     #SSH
     #From Network 1 an Computer 3
     iptables -A FORWARD	-p tcp --dport 22 -d 172.16.12.2 -j ACCEPT
     iptables -A FORWARD -p tcp --sport 22 -s 172.16.12.2 -j ACCEPT
-    
     #STATEFUL
     #From Network 1 to Computer 3
     iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
@@ -148,7 +146,6 @@ case $name in
     #Ping From Network 4 an Network 2
     iptables -A FORWARD -s 172.16.14.0/24 -d 172.16.12.0/24 -p icmp --icmp-type ECHO-REQUEST -j ACCEPT
     iptables -A FORWARD -d 172.16.14.0/24 -s 172.16.12.0/24 -p icmp --icmp-type ECHO-REPLY -j ACCEPT
-
     #STATEFUL
     #From Network 3 to Computer 3
     iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
@@ -213,13 +210,11 @@ case $name in
     #From Network 4 to Computer 3
     iptables -A FORWARD	-p tcp --dport 22 -d 172.16.12.2 -j ACCEPT
     iptables -A FORWARD -p tcp --sport 22 -s 172.16.12.2 -j ACCEPT
-    
     #STATEFUL
     #From Network 4 to Computer 3
     iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
     iptables -A FORWARD -m state --state NEW -p tcp --syn --dport 80 -d 172.16.12.2 -j ACCEPT
     iptables -A FORWARD -m state --state NEW -p tcp --syn --dport 21 -d 172.16.12.2 -j ACCEPT
-   
     #NAT
     iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
     #TODO: ask why is not working
